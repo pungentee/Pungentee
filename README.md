@@ -139,4 +139,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Timm-png&show_icons=true&locale=en&layout=compact" alt="timmfromua" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Timm-png&show_icons=true&locale=en&layout=compact" alt="Timm-png" /></p>
