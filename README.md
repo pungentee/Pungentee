@@ -138,5 +138,4 @@
 </p>
 
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Timm-png&show_icons=true&locale=en&layout=compact" alt="Timm-png" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timm-png&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
