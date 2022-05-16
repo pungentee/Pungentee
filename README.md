@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Timm</h1>
+<h1 align="center">Hi 👋, I'm timmfromua</h1>
 <h3 align="center">A passionate beckend nodejs developer from Ukraine</h3>
 
 - 🌱 I’m currently learning **JS/TS/NodeJS**
