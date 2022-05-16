@@ -12,7 +12,6 @@
 <a href="https://twitter.com/timm_png" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="timm_png" height="30" width="40" /></a>
 <a href="https://instagram.com/timmfromua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="timmfromua" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a
@@ -124,7 +123,6 @@
             height="40"
         />
     </a>
-    
     <a
         href="https://www.gnu.org/software/bash/"
         target="_blank"
@@ -138,6 +136,7 @@
         />
     </a>
 </p>
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Timm-png&show_icons=true&locale=en&layout=compact" alt="timmfromua" /></p>
