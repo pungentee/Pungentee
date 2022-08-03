@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm timmformua</h1>
 <h3 align="center">A nodejs developer from Ukraine</h3>
 
-- 🌱 I’m currently learning **nodejs**
+- 🌱 I’m currently learning **GoLang**
 
 - 📫 How to reach me **antcompix@gmail.com**
 
