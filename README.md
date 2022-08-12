@@ -7,7 +7,6 @@
 
 - ⚡ Fun fact **I think you don't need write everything in rust**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
