@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **JS, TS, NodeJS, Nest, Express**
 
-- 📫 How to reach me **antcompix@gmial.com**
-
 - ⚡ Fun fact **I think you don't need write everything in rust**
 
 <p align="left">
