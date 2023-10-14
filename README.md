@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **pungentee@gmail.com**
 
-- ⚡ Fun fact **You don't have to write everything in Rust**
+- ⚡ Fun fact **You shouldn't to write everything in Rust**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
