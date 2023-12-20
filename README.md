@@ -3,7 +3,10 @@ Now I'm studying computer science and what I'm interested in; <br>I'm a student 
 
 
 # 💻 Tech Stack:
-*nullptr
+```sh
+Exception in thread "main" java.lang.NullPointerException
+	at Pungentee.Skills
+```
 
 
 # 📊 GitHub Stats:
