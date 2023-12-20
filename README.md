@@ -5,7 +5,7 @@ Now I'm studying computer science and what I'm interested in; <br>I'm a student 
 # 💻 Tech Stack:
 ```sh
 Exception in thread "main" java.lang.NullPointerException
-	at Pungentee.Skills
+    at Pungentee.getSkills(Pungentee.java:16)
 ```
 
 
