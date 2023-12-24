@@ -1,5 +1,6 @@
 # 💫 About Me:
-Now I'm studying computer science and what I'm interested in; <br>I'm a student of Kyiv College of Communication
+Now I'm studying computer science and what I'm interested in; <br>
+I'm a student of Kyiv College of Communication;
 
 
 # 💻 Tech Stack:
